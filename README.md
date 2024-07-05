@@ -86,7 +86,7 @@ Changes
 
 This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
 
-This privacy policy is effective as of 2024-06-07
+This privacy policy is effective as of 2024-07-05
 
 Your Consent
 
